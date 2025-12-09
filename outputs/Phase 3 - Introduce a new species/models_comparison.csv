@@ -1,0 +1,9 @@
+Model,Best_Epoch,mAP50,mAP50-95,Precision,Recall,Box_Loss,Cls_Loss,DFL_Loss
+finetune_transfer_learn_belugas_and_dolphins_744_epoch50_freeze0,87,0.9093,0.5404,0.9178,0.8346,1.136,0.672,1.1567
+transfer_learn_belugas_and_dolphins_744_epoch50_freeze0,42,0.9053,0.5038,0.922,0.8088,1.3741,0.8218,1.3099
+finetune_transfer_learn_belugas_and_dolphins_744_epoch50_freeze11,100,0.8966,0.5221,0.9194,0.8101,1.048,0.5771,1.1027
+finetune_transfer_learn_belugas_and_dolphins_310_epoch50_freeze11,79,0.8855,0.529,0.8887,0.8239,1.0191,0.5976,1.0003
+transfer_learn_belugas_and_dolphins_744_epoch50_freeze11,48,0.8816,0.4639,0.8861,0.8023,1.2946,0.7925,1.2446
+finetune_transfer_learn_belugas_and_dolphins_310_epoch50_freeze0,68,0.8806,0.4935,0.869,0.8287,1.0585,0.6083,1.0177
+transfer_learn_belugas_and_dolphins_310_epoch50_freeze0,37,0.8796,0.473,0.8914,0.7732,1.2796,0.8491,1.1011
+transfer_learn_belugas_and_dolphins_310_epoch50_freeze11,40,0.8684,0.4883,0.8813,0.7938,1.2363,0.8653,1.0903

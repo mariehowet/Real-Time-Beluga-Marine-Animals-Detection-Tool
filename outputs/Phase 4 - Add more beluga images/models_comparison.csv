@@ -1,0 +1,3 @@
+Model,Best_Epoch,mAP50,mAP50-95,Precision,Recall,Box_Loss,Cls_Loss,DFL_Loss
+finetune_transfer_learn_belugas_652_epoch50_freeze11,68,0.9248,0.5558,0.8865,0.8548,1.3303,0.8798,1.3033
+transfer_learn_belugas_652_epoch50_freeze11,33,0.9132,0.5159,0.9149,0.819,1.392,0.9568,1.3502

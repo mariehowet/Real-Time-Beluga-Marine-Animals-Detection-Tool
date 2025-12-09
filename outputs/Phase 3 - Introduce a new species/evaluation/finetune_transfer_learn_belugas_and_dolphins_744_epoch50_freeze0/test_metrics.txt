@@ -1,0 +1,8 @@
+Test Set Evaluation - finetune_transfer_learn_belugas_and_dolphins_744_epoch50_freeze0
+==================================================
+
+mAP50          : 0.9451
+mAP50-95       : 0.5742
+precision      : 0.9558
+recall         : 0.8742
+f1             : 0.9131

@@ -1,0 +1,8 @@
+Test Set Evaluation - finetune_transfer_learn_belugas_275_epoch50_freeze0
+==================================================
+
+mAP50          : 0.9286
+mAP50-95       : 0.5600
+precision      : 0.9450
+recall         : 0.8545
+f1             : 0.8975

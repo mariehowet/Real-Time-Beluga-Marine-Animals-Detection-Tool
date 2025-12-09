@@ -1,0 +1,5 @@
+Model,Best_Epoch,mAP50,mAP50-95,Precision,Recall,Box_Loss,Cls_Loss,DFL_Loss
+finetune_transfer_learn_marine_animals_2526_epoch100_freeze0,85,0.9077,0.5724,0.9112,0.829,1.2893,0.8456,1.2666
+transfer_learn_marine_animals_2526_epoch50_freeze11,50,0.9013,0.5574,0.9092,0.8181,1.205,0.6654,1.2211
+finetune_transfer_learn_marine_animals_1050_epoch100_freeze0,65,0.897,0.5601,0.8972,0.8151,1.1689,0.7247,1.0957
+transfer_learn_marine_animals_1050_epoch50_freeze11,48,0.88,0.5466,0.8833,0.806,1.0173,0.5844,1.0257

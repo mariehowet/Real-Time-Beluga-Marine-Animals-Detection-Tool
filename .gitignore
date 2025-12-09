@@ -1,0 +1,26 @@
+# Ignorer les dossiers volumineux
+data/
+models/
+.trash
+.idea
+.venv2
+
+# Ignorer les fichiers binaires / multimédia
+*.png
+*.avi
+*.pt
+*.mp4
+*.jpg
+*.jpeg
+
+# Ignorer les fichiers temporaires et système
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.DS_Store
+*.egg-info/
+
+# Garder tous les scripts Python et README
+!*.py
+!README.md

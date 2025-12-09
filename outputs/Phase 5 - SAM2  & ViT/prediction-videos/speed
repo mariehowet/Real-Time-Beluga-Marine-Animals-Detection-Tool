@@ -1,0 +1,91 @@
+C:\UQACode\Automne2025\Real-Time-Beluga-Whales-Detection-Tool\.venv2\Scripts\python.exe C:\UQACode\Automne2025\Real-Time-Beluga-Whales-Detection-Tool\src\sam2_vit\predict_sam2_vit.py
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 1 8, 1 9, 1 10, 1 11, 1 12, 1 13, 1 14, 1 15, 1 16, 1 17, 1 18, 1 19, 1 20, 79034.0ms
+Speed: 17.3ms preprocess, 79034.0ms inference, 26.9ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 0 → 19 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 1 8, 1 9, 1 10, 1 11, 1 12, 1 13, 1 14, 1 15, 1 16, 1 17, 1 18, 1 19, 1 20, 78057.6ms
+Speed: 5.4ms preprocess, 78057.6ms inference, 34.7ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 1 → 19 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 1 8, 1 9, 1 10, 1 11, 1 12, 1 13, 1 14, 1 15, 1 16, 1 17, 1 18, 1 19, 1 20, 78165.5ms
+Speed: 5.9ms preprocess, 78165.5ms inference, 32.3ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 2 → 19 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 1 8, 1 9, 1 10, 1 11, 1 12, 1 13, 1 14, 1 15, 1 16, 1 17, 1 18, 1 19, 1 20, 1 21, 77605.6ms
+Speed: 5.2ms preprocess, 77605.6ms inference, 40.2ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 3 → 20 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 1 8, 1 9, 1 10, 1 11, 1 12, 1 13, 1 14, 1 15, 1 16, 1 17, 1 18, 1 19, 1 20, 1 21, 1 22, 78489.6ms
+Speed: 6.3ms preprocess, 78489.6ms inference, 35.2ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 4 → 21 crops saved
+[STOP] Limite de 5 frames atteinte.
+[DONE] 5 frames processed from video ../videos/sam2_vit\belugas.mp4
+
+0: 1024x1024 1 0, 80533.6ms
+Speed: 7.1ms preprocess, 80533.6ms inference, 1.4ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 0 → 1 crops saved
+
+0: 1024x1024 1 0, 69067.4ms
+Speed: 7.5ms preprocess, 69067.4ms inference, 2.2ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 1 → 1 crops saved
+
+0: 1024x1024 1 0, 73485.9ms
+Speed: 6.2ms preprocess, 73485.9ms inference, 2.2ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 2 → 1 crops saved
+
+0: 1024x1024 1 0, 85546.3ms
+Speed: 6.8ms preprocess, 85546.3ms inference, 2.0ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 3 → 1 crops saved
+
+0: 1024x1024 1 0, 86800.5ms
+Speed: 5.3ms preprocess, 86800.5ms inference, 2.1ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 4 → 1 crops saved
+[STOP] Limite de 5 frames atteinte.
+[DONE] 5 frames processed from video ../videos/sam2_vit\dolphins.mp4
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 87163.2ms
+Speed: 6.4ms preprocess, 87163.2ms inference, 17.6ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 0 → 3 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 83518.2ms
+Speed: 6.9ms preprocess, 83518.2ms inference, 17.1ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 1 → 3 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 76870.5ms
+Speed: 8.5ms preprocess, 76870.5ms inference, 21.9ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 2 → 4 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 84112.3ms
+Speed: 5.8ms preprocess, 84112.3ms inference, 20.0ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 3 → 4 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 80465.2ms
+Speed: 6.4ms preprocess, 80465.2ms inference, 19.4ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 4 → 4 crops saved
+[STOP] Limite de 5 frames atteinte.
+[DONE] 5 frames processed from video ../videos/sam2_vit\sea_turtles.mp4
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 77098.7ms
+Speed: 5.3ms preprocess, 77098.7ms inference, 13.2ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 0 → 6 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 76818.4ms
+Speed: 7.2ms preprocess, 76818.4ms inference, 16.4ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 1 → 7 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 74334.4ms
+Speed: 6.0ms preprocess, 74334.4ms inference, 15.1ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 2 → 7 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 69664.8ms
+Speed: 6.6ms preprocess, 69664.8ms inference, 15.2ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 3 → 7 crops saved
+
+0: 1024x1024 1 0, 1 1, 1 2, 1 3, 1 4, 1 5, 1 6, 1 7, 68980.6ms
+Speed: 8.2ms preprocess, 68980.6ms inference, 13.7ms postprocess per image at shape (1, 3, 1024, 1024)
+[INFO] Frame 4 → 7 crops saved
+[STOP] Limite de 5 frames atteinte.
+[DONE] 5 frames processed from video ../videos/sam2_vit\sharks.mp4
+
+Process finished with exit code 0

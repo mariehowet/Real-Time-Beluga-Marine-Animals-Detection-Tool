@@ -1,0 +1,13 @@
+Model,Best_Epoch,mAP50,mAP50-95,Precision,Recall,Box_Loss,Cls_Loss,DFL_Loss
+transfer_learn_belugas_275_epoch50_freeze0,37,0.8846,0.5196,0.9065,0.7893,1.4079,0.9113,1.2768
+transfer_learn_belugas_275_epoch100_freeze0,65,0.8822,0.5013,0.9079,0.8099,1.2963,0.8044,1.2176
+transfer_learn_belugas_275_epoch100_freeze11,62,0.8803,0.495,0.875,0.8101,1.3111,0.8024,1.1988
+transfer_learn_belugas_115_epoch100_freeze11,83,0.8783,0.491,0.879,0.7727,1.0836,0.7089,1.019
+transfer_learn_belugas_275_epoch50_freeze11,37,0.8758,0.47,0.8618,0.8058,1.3994,0.937,1.2648
+transfer_learn_belugas_115_epoch100_freeze0,52,0.8665,0.4942,0.9202,0.7851,1.1289,0.7349,1.032
+transfer_learn_belugas_115_epoch50_freeze11,31,0.8531,0.461,0.8534,0.7727,1.2468,0.8903,1.0579
+transfer_learn_belugas_115_epoch50_freeze0,37,0.8214,0.4791,0.8297,0.7854,1.1702,0.8394,1.0432
+transfer_learn_belugas_275_epoch10_freeze0,10,0.7896,0.4596,0.7886,0.7246,1.5155,1.2052,1.34
+transfer_learn_belugas_275_epoch10_freeze11,10,0.7885,0.4513,0.8006,0.6966,1.495,1.2581,1.3311
+transfer_learn_belugas_115_epoch10_freeze11,10,0.3117,0.1822,0.0411,0.4008,1.3912,1.2445,1.1153
+transfer_learn_belugas_115_epoch10_freeze0,5,0.304,0.1516,0.0231,0.6859,1.5563,1.8876,1.1553
